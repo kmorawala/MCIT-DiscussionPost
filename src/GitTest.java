@@ -1,4 +1,7 @@
-
+/**
+ * This class tests the GitHub collaboration between two classmates.
+ *
+ */
 public class GitTest {
 	public static void main(String[] args) {
 		System.out.println("Hello! My Name is Krishna");
