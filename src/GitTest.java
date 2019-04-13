@@ -7,6 +7,7 @@ public class GitTest {
 		System.out.println("Hello! My Name is Krishna");
 		System.out.println("What is your name? Write some code to print your name to console below");
 		//TODO add your code here
+		System.out.println("Hi Krishna, My name is Jinuk Shin and I also go by Luke Shin!");
 	}
 
 }
