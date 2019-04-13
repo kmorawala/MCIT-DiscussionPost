@@ -9,7 +9,7 @@ public class GitTest {
 		//TODO add your code here
 		System.out.println("Hi Krishna, My name is Jinuk Shin and I also go by Luke Shin!");
 		System.out.println("Thanks, Luke! Nice to meet you! lol I changed line 7 to include \"how are you?\"");
-
+		System.out.println("I added this line to cause a conflict");
 	}
 
 }
